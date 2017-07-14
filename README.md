@@ -4,4 +4,4 @@ Users can signup and  post messages upon authentication. On load, the app will l
 But a currently logged in user is only allowed to edit and delete their own posted messages. 
 In fact the ‘edit’ and ‘delete’ buttons are hidden from the other messages. 
 
-https://angular-app-deployment.herokuapp.com/messages
+https://angular-app-deployment.herokuapp.com/
